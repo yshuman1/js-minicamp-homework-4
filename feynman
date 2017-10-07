@@ -1,0 +1,13 @@
+1. Callback Functions: a callback function is a function that is passed to another function as one of the arguments. its called inside the function it was passed to.
+
+2. Closure: its an inner function that has access to the variables of the enclosing function. it also has access to global variables.
+
+3. `arguments`: its a built in object of a function. they are an array that are passed to the function in the paranthesis when the function is invoked.
+
+4. Recursion: Recursion is a technique for iterating over an operation by having a function call itself repeatedly until it arrives at a result. 
+
+5. prototype: this is like the blueprint of an object. each object has its own prototype. if you use the generic object to create a new object it will inherit a prototype from the Object.prototype.
+
+6. Constructors: The constructor method is a special method for creating and initializing an object created within a class.
+
+ 
